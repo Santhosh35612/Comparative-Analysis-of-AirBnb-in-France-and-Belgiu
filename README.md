@@ -19,8 +19,8 @@ This project performs a comprehensive comparative analysis of Airbnb listings ac
 ## Repository Structure
 
 ```
-├── Airbnb-Market-Intelligence-and-...   # Full project report / market intelligence document
-├── Belgium Cleaned.xlsx                 # Cleaned Belgium dataset (Excel format)
+├── Airbnb-Market-Intelligence-and-...  # Full project report / market intelligence document
+├── Belgium Cleaned.xlsx                # Cleaned Belgium dataset (Excel format)
 ├── Belgium Tableau.twbx                # Tableau workbook for Belgium visualizations
 ├── Belgium.csv                         # Raw Belgium Airbnb dataset
 ├── Belgium.sql                         # SQL script for Belgium data
@@ -28,9 +28,9 @@ This project performs a comprehensive comparative analysis of Airbnb listings ac
 ├── Capestone France.ipynb              # Jupyter Notebook – France analysis
 ├── Capestone Report.docx               # Detailed capstone project report
 ├── Dataset Schema.sql                  # Database schema definition
-├── France Cleaned.xlsx                 # Cleaned France dataset (Excel format)
+├── France Cleaned.csv.gz               # Compressed & Cleaned France dataset (Excel format)
 ├── France Tableau.twbx                 # Tableau workbook for France visualizations
-├── France.csv                          # Raw France Airbnb dataset
+├── France.xlsx                         # Raw France Airbnb dataset
 ├── France.sql                          # SQL script for France data
 └── README.md                           # Project documentation
 ```
